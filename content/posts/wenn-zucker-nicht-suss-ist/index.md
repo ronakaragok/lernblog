@@ -57,4 +57,4 @@ Ungefähr zehn Minuten nach Beginn der zweiten Halbzeit ist Annas Blutzuckerspie
 
 Mit einer Krankheit wie Diabetes diagnostiziert zu werden, welche ein Leben lang anhält, kann das Leben einer jungen Person auf den Kopf stellen. Und doch findet sich irgendwann ein Umgang damit, denn auch Joana Müller beobachtet: «Schlussendlich ist alles möglich, aber einfach ein bisschen schwieriger, da man sich besser organisieren und mehr beachten muss.»
 
-{{<youtube video_<iframe width="640" height="360" src="https://www.youtube.com/embed/Xm9deTXxoMc" title="Kinderdiabetes: Wie Behandelst Du Typ1 Diabetes?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>}}
+{{<youtube video_https://youtu.be/Xm9deTXxoMc>}}
