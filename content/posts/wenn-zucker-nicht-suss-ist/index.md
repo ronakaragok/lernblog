@@ -5,7 +5,7 @@ draft = false
 pinned = false
 description = ""
 +++
-`{{<lead>}}`Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen.`{{</lead>}}`
+{{<lead>}} Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. {{</lead>}}
 
 Es ist ein kühler Sonntagvormittag und am Himmel ziehen Gewitterwolken vorbei. Wir sind mit dem Auto unterwegs in ein kleines Dorf im Norden der Schweiz, wo wir Anna, eine Jugendliche mit Diabetes Typ 1, besuchen, um sie einen Nachmittag durch ihren Alltag und an einen Handballmatch zu begleiten. Wir kommen beim Haus ihrer Familie an und steigen aus dem Auto aus, als sich auch schon die Haustür öffnet und Anna uns entgegenkommt, um uns herzlich zu begrüssen.
 
@@ -18,6 +18,8 @@ Die siebzehnjährige Anna wurde vor 6 Jahren mit Diabetes mellitus Typ 1 diagnos
 Wie uns Joana Müller, Diabetesfachberaterin im Inselspital Bern, mitteilt, gibt es intensive Schulungen, in denen die Betroffenen erfahren, welche Nährwerte sie wie berechnen müssen und was den Blutzucker wie beeinflusst. Mit zunehmender Erfahrung sei es aber auch in Ordnung, die Nährwerte abzuschätzen, wie es Anna tut.  
 
 Als ihr Teller leer ist, holt Anna sich keine zweite Portion, da ihr Blutzucker bereits vor dem Essen eher hoch war. Auch wenn solche Komplikationen für sie mittlerweile zum Alltag gehört, sind sie teilweise immer noch frustrierend. Denn wenn es der Zucker nicht erlaubt, muss Anna trotz Hunger warten, bis ihr Blutzuckerspiegel auf einen tieferen Wert gesunken ist, um etwas zu essen. Wenn sie dies nicht tut, kann das einen sehr hohen Zuckerspiegel zur Folge haben, den sie nur schwer schnell wieder runterbringen kann. Deshalb sind beispielsweise auch spontane Verabredungen für ein Abendessen mit Freunden oder sogar ein Mittagessen am Gymnasium in der relativ kurzen Mittagspause ein herausforderndes Thema für sie. «Die Schwierigkeit im Alltag ist das Zeitmanagement», ist auch Joana Müllers Antwort, als wir sie fragen, was ihrer Meinung nach die grösste Herausforderung im Alltag ist.   
+
+> «Die Schwierigkeit im Alltag ist das Zeitmanagement.»
 
 ### Eine Menge Material
 
