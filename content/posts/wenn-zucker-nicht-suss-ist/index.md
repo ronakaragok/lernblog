@@ -19,7 +19,7 @@ Wie uns Joana Müller, Diabetesfachberaterin im Inselspital Bern, mitteilt, gibt
 
 Als ihr Teller leer ist, holt Anna sich keine zweite Portion, da ihr Blutzucker bereits vor dem Essen eher hoch war. Auch wenn solche Komplikationen für sie mittlerweile zum Alltag gehört, sind sie teilweise immer noch frustrierend. Denn wenn es der Zucker nicht erlaubt, muss Anna trotz Hunger warten, bis ihr Blutzuckerspiegel auf einen tieferen Wert gesunken ist, um etwas zu essen. Wenn sie dies nicht tut, kann das einen sehr hohen Zuckerspiegel zur Folge haben, den sie nur schwer schnell wieder runterbringen kann. Deshalb sind beispielsweise auch spontane Verabredungen für ein Abendessen mit Freunden oder sogar ein Mittagessen am Gymnasium in der relativ kurzen Mittagspause ein herausforderndes Thema für sie. «Die Schwierigkeit im Alltag ist das Zeitmanagement», ist auch Joana Müllers Antwort, als wir sie fragen, was ihrer Meinung nach die grösste Herausforderung im Alltag ist.   
 
-> «Die Schwierigkeit im Alltag ist das Zeitmanagement.»
+> «Die Schwierigkeit im Alltag ist das Zeitmanagement.» *Joana Müller, Diabetesfachberaterin*
 
 ### Eine Menge Material
 
@@ -35,7 +35,7 @@ Zum anderen Extremfall, der Überzuckerung oder auch Hyperglykämie, kommt es, w
 
 Wir fahren mit dem Auto in Richtung der Sporthalle los. Während der Fahrt schaltet Anna ihre Insulinpumpe aus, damit ihr Blutzucker während des Spiels nicht zu tief wird - es ist nämlich so, dass Sport und körperliche Anstrengung die Glukosekonzentration im Körper senken. Um den Blutzucker präventiv zu erhöhen, isst Anna unterwegs noch etwas Kleines. Auch wenn das ständige Messen und Anpassen sehr zeitaufwändig ist, kann es helfen, schwerwiegende Folgeerkrankungen vorzubeugen. «Deshalb sagen wir betroffenen Kindern immer, dass sie das nicht für uns machen, sondern für sich. Wir wollen sie nicht mit den Kontrollen quälen, wir möchten für ihre Gesundheit im Alter sorgen,» betont auch Joana Müller. Körperliche Anstrengung ist aber nicht das Einzige, das die Glukosekonzentration im Blut beeinflussen kann. Tatsächlich können Aufregung und Emotionen sehr starke Auswirkungen auf den Blutzucker haben und diese kann man nicht so einfach kontrollieren. Auch Joana Müller bestätigt: «Es sind meistens die Hormone und der Stress, die den Zucker ansteigen lassen und zu starken Blutzuckerschwankungen führen. (…) Da jeder Mensch sehr individuell ist, variiert auch der Einfluss von Emotionen und Hormonen auf den Blutzucker von Mensch zu Mensch stark.» Auch vor wichtigen Prüfungen in der Schule sei das ein Problem, erzählt uns Anna.  
 
-> «Wir sagen betroffenen Kindern immer, dass sie das nicht für uns machen, sondern für sich.» 
+> «Wir sagen betroffenen Kindern immer, dass sie das nicht für uns machen, sondern für sich.» *Joana Müller, Diabetesfachberaterin*
 
 ### Wenn der Zucker nicht mitspielt
 
