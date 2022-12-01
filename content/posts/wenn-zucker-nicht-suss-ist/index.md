@@ -61,6 +61,4 @@ Mit einer Krankheit wie Diabetes diagnostiziert zu werden, welche ein Leben lang
 
 
 
-*Weitere Erklärvideos zu Diabetes Typ 1 (Inselgruppe):*
-
-<http://www.kinderklinik.insel.ch/de/unser-angebot/diabetologie/kinderdiabetes-lernvideos>
+*[Weitere Erklärvideos zu Diabetes Typ 1 (Inselgruppe)](<http://www.kinderklinik.insel.ch/de/unser-angebot/diabetologie/kinderdiabetes-lernvideos>)*
