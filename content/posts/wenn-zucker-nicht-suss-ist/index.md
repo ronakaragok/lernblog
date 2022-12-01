@@ -3,6 +3,7 @@ title = "Wenn Zucker nicht süss ist"
 date = "2022-12-01"
 draft = false
 pinned = false
+image = "zucker.png"
 description = ""
 +++
 "{{<lead>}} Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. {{</lead>}}
