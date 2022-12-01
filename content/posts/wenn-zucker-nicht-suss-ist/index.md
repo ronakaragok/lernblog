@@ -58,3 +58,7 @@ Ungefähr zehn Minuten nach Beginn der zweiten Halbzeit ist Annas Blutzuckerspie
 Mit einer Krankheit wie Diabetes diagnostiziert zu werden, welche ein Leben lang anhält, kann das Leben einer jungen Person auf den Kopf stellen. Und doch findet sich irgendwann ein Umgang damit, denn auch Joana Müller beobachtet: «Schlussendlich ist alles möglich, aber einfach ein bisschen schwieriger, da man sich besser organisieren und mehr beachten muss.»
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xm9deTXxoMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<http://www.kinderklinik.insel.ch/de/unser-angebot/diabetologie/kinderdiabetes-lernvideos  >
+
+*Weitere Erklärvideos zu Diabetes Typ 1 (Inselgruppe)*
