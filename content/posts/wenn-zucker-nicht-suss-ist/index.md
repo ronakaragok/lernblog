@@ -6,7 +6,7 @@ pinned = false
 image = "zucker.png"
 description = ""
 +++
-"{{<lead>}} Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. {{</lead>}}
+{{<lead>}} Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. {{</lead>}}
 
 ![Zucker aus Zucker - Zuzanna Czupalla](zucker.png)
 
@@ -60,6 +60,4 @@ Mit einer Krankheit wie Diabetes diagnostiziert zu werden, welche ein Leben lang
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xm9deTXxoMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-*[Weitere Erklärvideos zu Diabetes Typ 1 (Inselgruppe)](<http://www.kinderklinik.insel.ch/de/unser-angebot/diabetologie/kinderdiabetes-lernvideos>)*
+*[Weitere Erklärvideos zu Diabetes Typ 1 (Inselgruppe)](http://www.kinderklinik.insel.ch/de/unser-angebot/diabetologie/kinderdiabetes-lernvideos)*
