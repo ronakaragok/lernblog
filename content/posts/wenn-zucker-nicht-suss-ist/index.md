@@ -7,6 +7,8 @@ description = ""
 +++
 "{{<lead>}} Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. {{</lead>}}
 
+![Zucker aus Zucker - Zuzanna Czupalla](zucker.png)
+
 Es ist ein kühler Sonntagvormittag und am Himmel ziehen Gewitterwolken vorbei. Wir sind mit dem Auto unterwegs in ein kleines Dorf im Norden der Schweiz, wo wir Anna, eine Jugendliche mit Diabetes Typ 1, besuchen, um sie einen Nachmittag durch ihren Alltag und an einen Handballmatch zu begleiten. Wir kommen beim Haus ihrer Familie an und steigen aus dem Auto aus, als sich auch schon die Haustür öffnet und Anna uns entgegenkommt, um uns herzlich zu begrüssen.
 
 {{<box title="Was ist Diabetes Mellitus Typ 1?">}} Diabetes mellitus Typ 1 ist eine Autoimmunerkrankung, bei der das Immunsystem Zellen in der Bauchspeicheldrüse angreift. Diese betroffenen Zellen sind für die Herstellung von Insulin verantwortlich, welches den Zuckergehalt des Blutes reguliert, indem es Glukose aus dem Blut in die Zellen schleust. Mangelt es dem Körper an Insulin, kann der aufgenommene Zucker nicht genutzt werden und sammelt sich an, was eine Reihe von Beschwerden zur Folge hat. Diabetes Typ 1 wird typischerweise im Kindes- und Jugendalter diagnostiziert, kann aber auch erst im höheren Alter auftreten. Betroffene sind lebenslang auf Insulininjektionen angewiesen. Viele spezialisierte Schulungen, zu denen unter anderem auch Gespräche mit der Diabetesfachberatung gehören, sind essentiell für die Förderung von Gesundheit und Lebensqualität. {{</box>}} 
@@ -24,6 +26,8 @@ Als ihr Teller leer ist, holt Anna sich keine zweite Portion, da ihr Blutzucker 
 ### Eine Menge Material
 
 Nach dem Essen gehen wir mit Anna auf ihr Zimmer, in dessen Ecke eine halb gepackte Sporttasche für das bevorstehende Handballspiel liegt. Anna hat drei Schubladen in ihrem Zimmer, die sie zur Aufbewahrung ihres Diabetes-Materials benutzt. Dazu gehören Insulinpumpen, Sensoren und Spritzen, die auch Pens genannt werden. Da sie ihren Sensor jede zweite Woche und ihre Pumpe sogar alle drei Tage auswechseln muss, hat sie davon sehr viele vorrätig. Von Joana Müller wissen wir: «Grundsätzlich lernen zuerst alle den Umgang mit den Pens, bevor sie auf die Pumpe umsteigen können.» So war es auch bei Anna. Dies war nötig, damit sie im Fall, dass ihre Pumpe nicht mehr funktioniert, wüsste, wie sie sich Insulin von Hand spritzen kann. Dieses Wissen musste sie beispielsweise anwenden, als eine Lieferung von Pumpen eine zweiwöchige Verspätung hatte. Während Anna ihre Sporttasche fertig packt und sich für ihren Handballmatch bereitmacht, erklärt sie uns, wie das Wechseln einer Pumpe funktioniert. Weiter erzählt sie uns, dass die Pumpentherapie im Vergleich zu den Pens weitaus angenehmer ist. 
+
+![Schublade mit Insulinpumpen - Zuzanna Czupalla](schublade.png)
 
 ### Wenn es zum Notfall kommt
 
@@ -43,6 +47,8 @@ In der Sporthalle herrscht Aufregung, während Anna ihre Mitspielerinnen trifft.
 
 Auf den Tribünen wird es jetzt laut, denn die Spielerinnen kommen aufs Feld und stellen sich auf. Der Match beginnt und wir feuern Anna, die schon seit drei Jahren als Torhüterin Handball spielt, und ihr Team zusammen mit den anderen Zuschauern an. Einen Sport mit Diabetes zu treiben ist nicht einfach, denn wie uns Anna schon vor dem Spiel erzählt hat, schränkt sie die Krankheit ein. Um Komplikationen auf ein Minimum zu beschränken, sollte man den Blutzuckerspiegel während eines Trainings oder eines Matches regelmässig kontrollieren, was Anna auch tut. Trotzdem muss sie kurz vor der Pause das Spielfeld verlassen, denn der Zucker spielt wortwörtlich nicht mit. Während Anna ausfällt, wird sie durch eine Mitspielerin ersetzt. Wie Anna uns nach dem Match erklärt, ist ihr Blutzuckerwert während des Spiels durch die körperliche Anstrengung stark gesunken. Dies sei schon mehrmals vorgekommen und in so einem Fall sei sie dazu gezwungen, eine Pause zu machen und etwas zu essen, auch wenn sie gerade keine Lust dazu habe.
 
-  Ungefähr zehn Minuten nach Beginn der zweiten Halbzeit ist Annas Blutzuckerspiegel genügend angestiegen, dass sie das Spielfeld wieder betreten und weiterspielen kann. Das Spiel bleibt spannend und als es fertig ist, gratulieren wir Anna, da sie trotz Zwischenfall hervorragend gespielt hat. Danach verabschieden wir uns von ihr und bedanken uns herzlich für ihre Bereitschaft, uns einen persönlichen Einblick in ihren Alltag zu ermöglichen, bevor wir uns auf den Heimweg machen. 
+![Anna am Match im Tor - Privataufnahme von Anna](match.jpg)
+
+Ungefähr zehn Minuten nach Beginn der zweiten Halbzeit ist Annas Blutzuckerspiegel genügend angestiegen, dass sie das Spielfeld wieder betreten und weiterspielen kann. Das Spiel bleibt spannend und als es fertig ist, gratulieren wir Anna, da sie trotz Zwischenfall hervorragend gespielt hat. Danach verabschieden wir uns von ihr und bedanken uns herzlich für ihre Bereitschaft, uns einen persönlichen Einblick in ihren Alltag zu ermöglichen, bevor wir uns auf den Heimweg machen. 
 
 Mit einer Krankheit wie Diabetes diagnostiziert zu werden, welche ein Leben lang anhält, kann das Leben einer jungen Person auf den Kopf stellen. Und doch findet sich irgendwann ein Umgang damit, denn auch Joana Müller beobachtet: «Schlussendlich ist alles möglich, aber einfach ein bisschen schwieriger, da man sich besser organisieren und mehr beachten muss.»
