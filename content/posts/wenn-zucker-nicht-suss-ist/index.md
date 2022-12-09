@@ -10,7 +10,7 @@ footnotes = ""
 +++
 {{<lead>}} Eine Diabetes Typ 1 Diagnose löst bei vielen Betroffenen Angst und Unsicherheit aus. Ausserdem zwingt die Krankheit sie dazu, in ihrem Alltag einschneidende Veränderungen vorzunehmen, die nicht immer einfach umzusetzen sind. So werden Essen und Sport plötzlich zu Herausforderungen. *Eine Reportage von Rona Karagök und Zuzanna Czupalla* {{</lead>}}
 
-![Zucker aus Zucker - Zuzanna Czupalla](zucker.png)
+![Zucker aus Zucker - Zuzanna Czupalla](zucker-aus-zucker.jpg)
 
 Es ist ein kühler Sonntagvormittag und am Himmel ziehen Gewitterwolken vorbei. Wir sind mit dem Auto unterwegs in ein kleines Dorf im Norden der Schweiz, wo wir Anna, eine Jugendliche mit Diabetes Typ 1, besuchen, um sie einen Nachmittag durch ihren Alltag und an einen Handballmatch zu begleiten. Wir kommen beim Haus ihrer Familie an und steigen aus dem Auto aus, als sich auch schon die Haustür öffnet und Anna uns entgegenkommt, um uns herzlich zu begrüssen.
 
@@ -30,7 +30,7 @@ Als ihr Teller leer ist, holt Anna sich keine zweite Portion, da ihr Blutzucker 
 
 Nach dem Essen gehen wir mit Anna auf ihr Zimmer, in dessen Ecke eine halb gepackte Sporttasche für das bevorstehende Handballspiel liegt. Anna hat drei Schubladen in ihrem Zimmer, die sie zur Aufbewahrung ihres Diabetes-Materials benutzt. Dazu gehören Insulinpumpen, Sensoren und Spritzen, die auch Pens genannt werden. Da sie ihren Sensor jede zweite Woche und ihre Pumpe sogar alle drei Tage auswechseln muss, hat sie davon sehr viele vorrätig. Von Joana Müller wissen wir: «Grundsätzlich lernen zuerst alle den Umgang mit den Pens, bevor sie auf die Pumpe umsteigen können.» So war es auch bei Anna. Dies war nötig, damit sie im Fall, dass ihre Pumpe nicht mehr funktioniert, wüsste, wie sie sich Insulin von Hand spritzen kann. Dieses Wissen musste sie beispielsweise anwenden, als eine Lieferung von Pumpen eine zweiwöchige Verspätung hatte. Während Anna ihre Sporttasche fertig packt und sich für ihren Handballmatch bereitmacht, erklärt sie uns, wie das Wechseln einer Pumpe funktioniert. Weiter erzählt sie uns, dass die Pumpentherapie im Vergleich zu den Pens weitaus angenehmer ist. 
 
-![Schublade mit Insulinpumpen - Zuzanna Czupalla](schublade.png)
+![Schublade mit Insulinpumpen - Zuzanna Czupalla](schublade-mit-pumpen.jpg)
 
 ### Wenn es zum Notfall kommt
 
